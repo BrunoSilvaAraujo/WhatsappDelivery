@@ -1,0 +1,22 @@
+[
+    {
+        "atencao": "nao deletar"
+    },
+    {
+        "stage": 6,
+        "nome": "Bruno",
+        "endereco": "Rua 15, numero 17 Aquárius, próximo ao posto br",
+        "telefone": "22992238683",
+        "pagamento": "cartão",
+        "troco": "",
+        "itens": [
+            {
+                "descricao": "Tijela Açai",
+                "tamanho": "500ml",
+                "quantidade": "2",
+                "preco": "7.99",
+                "observacao": "Nao"
+            }
+        ]
+    }
+]
